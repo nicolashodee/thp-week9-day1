@@ -1,4 +1,4 @@
-## JavaScript - Animations
+## JavaScript - Events & DOM Manipulation
 
 Pour tester les exercices, ouvre le fichier exo_events.html et teste tous les elements dans la page. Ca va etre de la FOLIE tu verras ;)
 
